@@ -67,6 +67,7 @@ main{
 
 .container .mensagem{
     margin-bottom: 7px;
+    height: 10rem;
 }
 
 .container .aviso-visivel{
