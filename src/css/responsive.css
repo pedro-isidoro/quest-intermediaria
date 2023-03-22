@@ -1,0 +1,65 @@
+@media(max-width: 722px){
+    .formulario{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .texto{
+        margin-bottom: 2.4rem;
+    }
+
+    .texto h1{
+        width: 28.7rem;
+        height: 4.6rem;
+        margin-right: 0;
+
+        font-size: 2rem;
+        margin-bottom: 1.1rem;
+    }
+    
+    .texto p{
+        width: 30rem;
+        height: 5.4rem;
+        margin-right: 0;
+
+        font-size: 1.5rem;
+    }
+}
+
+@media(max-width: 321px){
+    .texto{
+        margin-bottom: 3.6rem;
+    }
+
+    .texto h1{
+        width: 26.7rem;
+        height: 4.6rem;
+        
+        font-size: 1.8rem;
+    }
+    
+    .texto p{
+        width: 28rem;
+        height: 5.4rem;
+    
+        font-size: 1.5rem;
+    }
+
+    .container{
+        width: 30rem;
+        height: 35.8rem;
+        padding: 2rem;
+    }
+
+    .container .nome, .container .email, .container .telefone, .container .mensagem{
+        width: 25.8rem;
+        height: 3.2rem;
+        padding: 0.8rem;
+    }
+
+    .container .mensagem{
+        height: 10rem;
+    }
+}
