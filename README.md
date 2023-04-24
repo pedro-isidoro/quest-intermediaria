@@ -1,6 +1,4 @@
-# quest-js-intermediaria
-
-## Desafio do curso DevQuest
+## Desafio do curso DevQuest - quest-js-intermediaria
 -Deve-se criar um formulário com validação;
 <br>
 -Pontos de atenção:
@@ -18,6 +16,9 @@ figma.
 -O fundo do formulário deve ser feito usando a
 imagem em anexo na aula.
 <br>
+
+## Projeto
+<img src="./src/image/quest-js-intermediaria.gif" alt="Gif do projeto">
 
 ## Tecnologias usadas
 -HTML
