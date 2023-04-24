@@ -1,17 +1,11 @@
 //Código Original
 /*
 const nome = document.getElementById('nome');
-// console.log(nome);
 const email = document.getElementById('email');
-// console.log(email);
 const telefone = document.getElementById('telefone');
-// console.log(telefone);
 const mensagem = document.getElementById('mensagem');
-// console.log(mensagem);
 const btnEnviar = document.getElementById('btn-enviar');
-// console.log(btnEnviar);
 const aviso = document.querySelectorAll('.aviso');
-// console.log(aviso);
 
 function verificandoSeEstaVazio(input, i){
     let temTexto = input.value; 
